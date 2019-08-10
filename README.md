@@ -1,45 +1,3 @@
-#### 感谢支持
-
-![](picture/201908061749.png) ![](picture/201908050956.png) ![](picture/201908011230.png)
-
-![](picture/201907290950.png) ![](picture/201908051743.png) ![](picture/201908011536.png)
-
-![](picture/201907301648.png) ![](picture/201905271359.png) ![](picture/201907031613.png)
-
-![](picture/201907231140.png) ![](picture/201905092038.png) ![](picture/201902282000.png)
-
-![](picture/201908011130.png) ![](picture/201907221137.png) ![](picture/201906291400.png)
-
-![](picture/201906281126.png) ![](picture/201905131024.png) ![](picture/201905092034.png)
-
-![](picture/201904261500.png) ![](picture/201904251819.png) ![](picture/201904241451.png)
-
-![](picture/201904220841.png) ![](picture/201904212240.png) ![](picture/201904201726.png)
-
-![](picture/201904201111.png) ![](picture/201904201042.png) ![](picture/201904201025.png)
-
-![](picture/201904191207.png) ![](picture/201904182032.png) ![](picture/201904181557.png)
-
-![](picture/201904181519.png) ![](picture/201904101029.png) ![](picture/201904031545.png)
-
-![](picture/201904031522.png) ![](picture/201904031521.png) ![](picture/201904030951.png)
-
-![](picture/201904011343.png) ![](picture/201904011147.png) ![](picture/201904011128.png)
-
-![](picture/201903311338.png) ![](picture/201903311038.png) ![](picture/201903291610.png)
-
-![](picture/201903281020.png) ![](picture/201903281011.png) ![](picture/201903281010.png)
-
-![](picture/201903280951.png) ![](picture/201903272146.png) ![](picture/201903271946.png)
-
-![](picture/201903271656.png) ![](picture/201903271559.png) ![](picture/201903271553.png)
-
-![](picture/201903271512.png) ![](picture/201903211639.png) ![](picture/201812130819.png)
-
-![](picture/201812120907.png) ![](picture/201812032346.png) ![](picture/201902281751.png)
-
-![](picture/201904011558.png)
-
 #### 常用疑问解答
 
 * 轮子哥开源能挣钱吗？
@@ -91,6 +49,48 @@
 #### 如果您觉得我的开源库帮你节省了大量的开发时间，请扫描下方的二维码随意打赏，要是能打赏个 10.24 :monkey_face:就太:thumbsup:了。您的支持将鼓励我继续创作:octocat:
 
 ![](picture/pay_ali.png) ![](picture/pay_wechat.png)
+
+#### 感谢支持
+
+![](picture/201908061749.png) ![](picture/201908050956.png) ![](picture/201908011230.png)
+
+![](picture/201907290950.png) ![](picture/201908051743.png) ![](picture/201908011536.png)
+
+![](picture/201907301648.png) ![](picture/201905271359.png) ![](picture/201907031613.png)
+
+![](picture/201907231140.png) ![](picture/201905092038.png) ![](picture/201902282000.png)
+
+![](picture/201908011130.png) ![](picture/201907221137.png) ![](picture/201906291400.png)
+
+![](picture/201906281126.png) ![](picture/201905131024.png) ![](picture/201905092034.png)
+
+![](picture/201904261500.png) ![](picture/201904251819.png) ![](picture/201904241451.png)
+
+![](picture/201904220841.png) ![](picture/201904212240.png) ![](picture/201904201726.png)
+
+![](picture/201904201111.png) ![](picture/201904201042.png) ![](picture/201904201025.png)
+
+![](picture/201904191207.png) ![](picture/201904182032.png) ![](picture/201904181557.png)
+
+![](picture/201904181519.png) ![](picture/201904101029.png) ![](picture/201904031545.png)
+
+![](picture/201904031522.png) ![](picture/201904031521.png) ![](picture/201904030951.png)
+
+![](picture/201904011343.png) ![](picture/201904011147.png) ![](picture/201904011128.png)
+
+![](picture/201903311338.png) ![](picture/201903311038.png) ![](picture/201903291610.png)
+
+![](picture/201903281020.png) ![](picture/201903281011.png) ![](picture/201903281010.png)
+
+![](picture/201903280951.png) ![](picture/201903272146.png) ![](picture/201903271946.png)
+
+![](picture/201903271656.png) ![](picture/201903271559.png) ![](picture/201903271553.png)
+
+![](picture/201903271512.png) ![](picture/201903211639.png) ![](picture/201812130819.png)
+
+![](picture/201812120907.png) ![](picture/201812032346.png) ![](picture/201902281751.png)
+
+![](picture/201904011558.png)
 
 ## License
 

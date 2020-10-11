@@ -8,11 +8,11 @@
 
 * 轮子哥你为何如此优秀？
 
-> 一年 365 天全年无休你可以这么优秀，就看你愿不愿意接受这个事实。
+> 全年无休你也可以这么优秀，就看你愿不愿意接受这个事实。
 
 * 轮子哥你平时都是怎么学习的？
 
-> 我的学习是没有目标的，看到什么不会学什么，但是我暂时只学习安卓这个领域的知识。
+> 我的学习是没有目标的，看到什么不会学什么，但我暂时只学习安卓这个领域相关的知识。
 
 * 轮子哥我怎么问你问题老是不会啊？
 
@@ -28,11 +28,11 @@
 
 * 轮子哥你能谈谈对开源的看法吗？
 
-> 如果说在公司写代码是我们的职责，那么开源便是一种义务。喝水不忘挖井人，如果我们有这个能力了，要多去帮助别人。仅凭我一人之力很难去推动和改变，我顶多算是帮大家开了个好头，开源最终还是要靠大家的共同努力。
+> 如果说在公司写代码是我们的职责，那么开源便是一种义务。喝水不忘挖井人，如果我们有这个能力了，要多去帮助别人，仅凭我一人之力很难去推动和改变，我顶多算帮大家开了个好头，开源最终还是要靠大家的共同努力。
 
-#### 作者开源项目
+#### 开源项目列表
 
-* 架构工程：[AndroidProject](https://github.com/getActivity/AndroidProject) ![](https://img.shields.io/github/stars/getActivity/AndroidProject.svg) ![](https://img.shields.io/github/forks/getActivity/AndroidProject.svg)
+* 安卓架构：[AndroidProject](https://github.com/getActivity/AndroidProject) ![](https://img.shields.io/github/stars/getActivity/AndroidProject.svg) ![](https://img.shields.io/github/forks/getActivity/AndroidProject.svg)
 
 * 网络框架：[EasyHttp](https://github.com/getActivity/EasyHttp) ![](https://img.shields.io/github/stars/getActivity/EasyHttp.svg) ![](https://img.shields.io/github/forks/getActivity/EasyHttp.svg)
 
@@ -46,9 +46,11 @@
 
 * 国际化框架：[MultiLanguages](https://github.com/getActivity/MultiLanguages) ![](https://img.shields.io/github/stars/getActivity/MultiLanguages.svg) ![](https://img.shields.io/github/forks/getActivity/MultiLanguages.svg)
 
-* 表情包：[EmojiPackage](https://github.com/getActivity/EmojiPackage) ![](https://img.shields.io/github/stars/getActivity/EmojiPackage.svg) ![](https://img.shields.io/github/forks/getActivity/EmojiPackage.svg)
+* 表情包集合：[EmojiPackage](https://github.com/getActivity/EmojiPackage) ![](https://img.shields.io/github/stars/getActivity/EmojiPackage.svg) ![](https://img.shields.io/github/forks/getActivity/EmojiPackage.svg)
 
 * 省市区数据：[ProvinceJson](https://github.com/getActivity/ProvinceJson) ![](https://img.shields.io/github/stars/getActivity/ProvinceJson.svg) ![](https://img.shields.io/github/forks/getActivity/ProvinceJson.svg)
+
+* Studio 精品插件：[StudioPlugins](https://github.com/getActivity/StudioPlugins) ![](https://img.shields.io/github/stars/getActivity/StudioPlugins.svg) ![](https://img.shields.io/github/forks/getActivity/StudioPlugins.svg)
 
 #### Android技术讨论Q群：78797078
 
@@ -58,7 +60,7 @@
 
 #### 感谢支持
 
-![](picture/202008141544.png) ![](picture/201908061749.png) ![](picture/201908011230.png) ![](picture/202008111524.png) ![](picture/202001031546.png) ![](picture/201912091048.png) ![](picture/201910201633.png) ![](picture/201908050956.png) ![](picture/201907290950.png) ![](picture/202001151423.png) ![](picture/201912231527.png) ![](picture/201908051743.png) ![](picture/202006031508.png) ![](picture/202005231055.png) ![](picture/202005171312.png) ![](picture/202001101010.png) ![](picture/201911201433.png) ![](picture/201908221032.png) ![](picture/201908181606.png) ![](picture/201908011536.png) ![](picture/201907301648.png) ![](picture/201905271613.png) ![](picture/201909031527.png) ![](picture/202003270027.png) ![](picture/202003111113.png) ![](picture/202003072030.png) ![](picture/202001031836.png) ![](picture/201911261522.png) ![](picture/201911261104.png) ![](picture/201911060940.png) ![](picture/201910251605.png) ![](picture/201909201510.png) ![](picture/201909111011.png) ![](picture/201907031613.png) ![](picture/201907231140.png) ![](picture/201905092038.png) ![](picture/202007151540.png) ![](picture/201912112015.png) ![](picture/201902281836.png) ![](picture/201909091816.png) ![](picture/202008130937.png) ![](picture/202008042104.png) ![](picture/202007131401.png) ![](picture/202006301423.png) ![](picture/202006151525.png) ![](picture/202005251458.png) ![](picture/201911211520.png) ![](picture/201912051725.png) ![](picture/201912081442.png) ![](picture/201912111659.png) ![](picture/201912251507.png) ![](picture/201912261813.png) ![](picture/201912281401.png) ![](picture/201911291945.png) ![](picture/201911081052.png) ![](picture/201910251128.png) ![](picture/201910241621.png) ![](picture/201910231505.png) ![](picture/201910101540.png) ![](picture/201909301640.png) ![](picture/201908221026.png) ![](picture/201909111114.png) ![](picture/201909091453.png) ![](picture/201909091138.png) ![](picture/201908011130.png) ![](picture/201907221137.png) ![](picture/201906291400.png) ![](picture/201906281126.png) ![](picture/201905131024.png) ![](picture/201905092034.png) ![](picture/201904261500.png) ![](picture/201904251819.png) ![](picture/201904241451.png) ![](picture/201904220841.png) ![](picture/201904212240.png) ![](picture/201904201726.png) ![](picture/201904201111.png) ![](picture/201904201042.png) ![](picture/201904201025.png) ![](picture/201904191207.png) ![](picture/201904182032.png) ![](picture/201904181557.png) ![](picture/201904181519.png) ![](picture/201904101029.png) ![](picture/201904031545.png) ![](picture/201904031522.png) ![](picture/201904031521.png) ![](picture/201904030951.png) ![](picture/201904011343.png) ![](picture/201904011147.png) ![](picture/201904011128.png) ![](picture/201903311338.png) ![](picture/201903311038.png) ![](picture/201903291610.png) ![](picture/201903281020.png) ![](picture/201903281011.png) ![](picture/201903281010.png) ![](picture/201903280951.png) ![](picture/201903272146.png) ![](picture/201903271946.png) ![](picture/201903271656.png) ![](picture/201903271559.png) ![](picture/201903271553.png) ![](picture/201903271512.png) ![](picture/201903211639.png) ![](picture/201812130819.png) ![](picture/201812120907.png) ![](picture/202008021814.png) ![](picture/201908150959.png) ![](picture/201812032346.png) ![](picture/201902281751.png) ![](picture/201904011558.png)
+![](picture/202009231507.png) ![](picture/202009141714.png) ![](picture/202008141544.png) ![](picture/201908061749.png) ![](picture/201908011230.png) ![](picture/202009141422.png) ![](picture/202008111524.png) ![](picture/202001031546.png) ![](picture/201912091048.png) ![](picture/201910201633.png) ![](picture/201908050956.png) ![](picture/201907290950.png) ![](picture/202001151423.png) ![](picture/201912231527.png) ![](picture/201908051743.png) ![](picture/202006031508.png) ![](picture/202005231055.png) ![](picture/202005171312.png) ![](picture/202001101010.png) ![](picture/201911201433.png) ![](picture/201908221032.png) ![](picture/201908181606.png) ![](picture/201908011536.png) ![](picture/201907301648.png) ![](picture/201905271613.png) ![](picture/201909031527.png) ![](picture/202003270027.png) ![](picture/202003111113.png) ![](picture/202003072030.png) ![](picture/202001031836.png) ![](picture/201911261522.png) ![](picture/201911261104.png) ![](picture/201911060940.png) ![](picture/201910251605.png) ![](picture/201909201510.png) ![](picture/201909111011.png) ![](picture/201907031613.png) ![](picture/201907231140.png) ![](picture/201905092038.png) ![](picture/202007151540.png) ![](picture/201912112015.png) ![](picture/201902281836.png) ![](picture/201909091816.png) ![](picture/202008130937.png) ![](picture/202010061658.png) ![](picture/202009151146.png) ![](picture/202008042104.png) ![](picture/202007131401.png) ![](picture/202006301423.png) ![](picture/202006151525.png) ![](picture/202005251458.png) ![](picture/201911211520.png) ![](picture/201912051725.png) ![](picture/201912081442.png) ![](picture/201912111659.png) ![](picture/201912251507.png) ![](picture/201912261813.png) ![](picture/201912281401.png) ![](picture/201911291945.png) ![](picture/201911081052.png) ![](picture/201910251128.png) ![](picture/201910241621.png) ![](picture/201910231505.png) ![](picture/201910101540.png) ![](picture/201909301640.png) ![](picture/201908221026.png) ![](picture/201909111114.png) ![](picture/201909091453.png) ![](picture/201909091138.png) ![](picture/201908011130.png) ![](picture/201907221137.png) ![](picture/201906291400.png) ![](picture/201906281126.png) ![](picture/201905131024.png) ![](picture/201905092034.png) ![](picture/201904261500.png) ![](picture/201904251819.png) ![](picture/201904241451.png) ![](picture/201904220841.png) ![](picture/201904212240.png) ![](picture/201904201726.png) ![](picture/201904201111.png) ![](picture/201904201042.png) ![](picture/201904201025.png) ![](picture/201904191207.png) ![](picture/201904182032.png) ![](picture/201904181557.png) ![](picture/201904181519.png) ![](picture/201904101029.png) ![](picture/201904031545.png) ![](picture/201904031522.png) ![](picture/201904031521.png) ![](picture/201904030951.png) ![](picture/201904011343.png) ![](picture/201904011147.png) ![](picture/201904011128.png) ![](picture/201903311338.png) ![](picture/201903311038.png) ![](picture/201903291610.png) ![](picture/201903281020.png) ![](picture/201903281011.png) ![](picture/201903281010.png) ![](picture/201903280951.png) ![](picture/201903272146.png) ![](picture/201903271946.png) ![](picture/201903271656.png) ![](picture/201903271559.png) ![](picture/201903271553.png) ![](picture/201903271512.png) ![](picture/201903211639.png) ![](picture/201812130819.png) ![](picture/201812120907.png) ![](picture/202008021814.png) ![](picture/201908150959.png) ![](picture/201904011558.png) ![](picture/201902281751.png) ![](picture/201812032346.png)
 
 ## License
 
